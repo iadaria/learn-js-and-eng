@@ -119,27 +119,64 @@ Pronounsation:
 
 ## ⚙️ Process
 
-us: /ˈprɑː.ses/  noun, verb\
+us: /ˈprɑː.ses/  noun, verb\ 
 uk: /ˈprəʊ.ses/ noun, /prəˈses/ verb
 
 ### 📚 Meaning
 
-**1.  💻 Running program** *(Special/IT)*\
-A program in execution; an instance of a computer program being run by the operating system.\
+**1.  💻 Running program** - запущенное приложение *(Special/IT)*\
+A program in execution; an instance of a computer program being run by the operating system:\
+(Выполняемая программа; экземпляр компьютерной программы, запускаемой операционной системой)
 • *The background process is using too much CPU.* — Фоновый процесс сильно грузит процессор.\
-• *Close the background process and all associated windows.* - Закройте фоновый процесс и все относящиеся к нему окна.\
+• *Close the background process and all associated windows.* - Закройте фоновый процесс и все относящиеся к нему окна.
 
-**2. ⚙️ Series of actions** *(B1)*\
+**2. ⚙️ Series of actions** *(B1)* - процесс, ход, процедура\
 A series of actions or steps taken in order to achieve a particular a result:\
-• *Learning a language is a gradual process.* - Изучение языка - это постепенный процесс.\
+(Серия действий или шагов, предпринятых для достижения определенного результата)\
+• *Learning a language is a gradual process.* - Изучение языка - это постепенный процесс.
 
-**3. 🏭 To handle data (verb)** *(B2)*\
-To deal with information or documents using a computer or official procedure.
-• *It takes a few minutes to process your payment.*
+**3. 🏭 To handle data (verb)** *(B2)* - обрабатывать, переработать\
+To deal with information or documents using a computer or official procedure:\
+(Для работы с информацией или документами с использованием компьютера или официальных процедур):\
+• *It takes a few minutes to process your payment.* - Обработка вашего платежа занимает несколько минут.
+
+<details>
+<summary>Tips</summary><br>
+
+Words:
+- achieve	/əˈtʃiːv/	достигать, добиваться
+- particular	/pəˈtɪkjʊlə(r)/	конкретный, особый, определённый
+- series	/ˈsɪəriːz/	серия, ряд (примечание: слово неисчисляемое по форме, но согласуется с глаголом во множественном числе)
+- gradual	/ˈɡrædʒuəl/	постепенный
+- official	/əˈfɪʃl/	официальный; чиновник, должностное лицо
+- procedure	/prəˈsiːdʒə(r)/	процедура, порядок действий
+
+Grammar:\
+1.
+- `A series` — неопределённый артикль a, говорим о каком‑то ряде действий, не о конкретном, уже известном слушателю.
+- `of actions or steps` — конструкция X of Y показывает принадлежность/состав: `ряд (чего?) действий или шагов`.
+- `taken in order` — это причастный оборот (past participle clause) от глагола to take. Он описывает шаги: `шаги, (которые) выполнены/предприняты в определённом порядке`. В подобных конструкциях часто опускают are/were: вместо steps that are taken говорят steps taken.
+- `in order to` — устойчивое выражение, которое вводит цель: `чтобы`, `для того чтобы`. Здесь: in order to achieve = `чтобы достичь`.
+- `a particular result` — a (неопределённый артикль) + particular (конкретный, определённый в данном контексте). Смысл: не любой результат, а какой‑то конкретный.
+2.
+- `Learning a language` — здесь learning выступает как герундий (существительное от глагола): `изучение языка`. Герундий часто используют, чтобы назвать действие как объект/явление.
+- `a language` — неопределённый артикль, потому что имеется в виду `какой‑то язык`, язык в общем смысле, а не конкретный (например, не `английский`, а `любой язык`).
+- `is a gradual process` — is (глагол‑связка) + a gradual process (`постепенный процесс`). Артикль a нужен, потому что мы впервые называем, чем является изучение языка. Gradual описывает процесс: он происходит не сразу, а шаг за шагом.
+3.
+- `To deal with` — инфинитив + фразовый глагол deal with = `иметь дело с`, `обрабатывать`, `разбираться с`. Инфинитив здесь может быть частью более длинного предложения (например, как определение цели или инструкция).
+- `information or documents` — information — неисчисляемое существительное, артикль не ставится. Documents — исчисляемое во множественном числе, тоже без артикля, когда говорим в общем.
+- `using a computer or official procedure` — это деепричастный/причастный оборот (gerund/present participle clause), который показывает способ действия: `используя компьютер или официальную процедуру`.
+- `a computer` — неопределённый артикль: любой компьютер, не какой‑то конкретный.
+- `official procedure` — procedure здесь тоже с неопределённым артиклем (обычно an official procedure), потому что речь о каком‑то официальном порядке действий в целом. (В твоём варианте артикль опущен — в коротких инструкциях и списках это допустимо.)
+
+</details>
+<br>
 
 <details>
 <summary><b>🔗 Collocations & Related Words</b></summary><br>
 
 **Collocations:** *background process, data processing, process a request, step-by-step process.*<br>
 **Related:** *procedure, method, execute, handle.*
+
 </details>
+
