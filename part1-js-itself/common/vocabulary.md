@@ -17,6 +17,30 @@
 | Article | [ˈɑːrtɪkl] | артикль (*a/an, the*) |
 | Interjection | [ˌɪntərˈdʒekʃn] | междометие |
 
+Participle	[ˈpɑːrtɪsɪpl]	причастие	Бывает Present (‑ing) и Past (3‑я форма). Работает как прилагательное или в составе времён/пассива. Пример: running script, fixed bug.\
+Gerund	[ˈdʒerənd]	герундий	Глагол с ‑ing, который работает как существительное. Пример: Debugging is important. (Отладка важна.)\
+Infinitive	[ɪnˈfɪnətɪv]	инфинитив	Базовая форма глагола, часто с to. Пример: to write, to fix.\
+Modal verb	[ˈmoʊdl vɜːrb]	модальный глагол	Показывает возможность, необходимость, разрешение. Пример: can, must, should. В JS‑контексте: You should add a test.\
+Auxiliary verb	[ɔɡˈzɪliəri vɜːrb]	вспомогательный глагол	Нужен для построения времён. Пример: do/does, have/has, be (am/is/are).\
+Phrase	[freɪz]	словосочетание / фраза	Группа слов без подлежащего и сказуемого. Пример: in the console, on line 12.\
+Clause	[klɔːz]	придаточное / часть предложения	Содержит подлежащее и сказуемое. Пример: When the API responds…\
+Subject	[ˈsʌbdʒekt]	подлежащее	Кто/что выполняет действие. Пример: The server is running.\
+Predicate	[ˈpredɪkət]	сказуемое	Что говорится о подлежащем (обычно глагол + всё остальное). Пример: is running.\
+Tense	[tens]	время	Показывает, когда происходит действие: прошлое, настоящее, будущее. Пример: Present Simple, Past Perfect.\
+
+Vowel	[ˈvaʊəl]	гласная	Пример: a, e, i, o, u (иногда y). Можно говорить: «This is a short vowel sound» (это краткий гласный звук).\
+Consonant	[ˈkɒnsənənt]	согласная	Пример: b, c, d, f, g. Можно: «The consonant ‘c’ is silent here» (согласная «c» здесь не произносится).\
+Stress	[stres]	ударение	Важно для понимания и произношения. Пример: deˈbug vs debug (в IT часто ставят ударение по‑своему).\
+Syllable	[ˈsɪləbl]	слог	Деление слова на части. Пример: var-i-able (3 слога). Удобно для запоминания длинных слов из JS.\
+
+Countable noun	[ˈkaʊntəbl ˈnaʊn]	исчисляемое существительное	a bug, two bugs. Можно сказать ученику: «You can count them: one error, two errors».\
+Uncountable noun	[ʌnˈkaʊntəbl ˈnaʊn]	неисчисляемое существительное	information, data, code. «We don’t say ‘an information’, just ‘some information’».\
+Singular	[ˈsɪŋɡjələr]	единственное число	function, error.\
+Plural	[ˈplʊrəl]	множественное число	functions, errors.\
+Possessive	[pəˈzesɪv]	притяжательный (чей?)	user’s token, server’s response.\
+Case	[keɪs]	падеж	В английском почти не используется, но термин встречается в учебниках.\
+
+
 ### questions
 
 ## Базовые грамматические термины
@@ -90,6 +114,11 @@
 ---
 
 Учитывая твой формат мини‑сессий по 25 минут и привычку к чёткой структуре (как в Dockerfile или Makefile), эти фразы удобно разбить по этапам урока и сохранить как шаблон: Warm‑up → Text/Code task → Speaking → Wrap‑up. Если скажешь, какой этап хочешь сделать сильнее (например, «чтобы ученики больше говорили про код» или «чтобы уверенно отвечали на вопросы»), могу собрать отдельный мини‑набор фраз строго под эту задачу. 😊
+
+Когда разбираете ошибку в коде: «Look at this sentence: ‘The server returned an error.’ Here ‘returned’ is the Past Participle. We use it in the passive: ‘The error was returned by the server.’»
+При объяснении слова: «‘Variable’ has 4 syllables: var-i-a-ble. The stress is on the first syllable: ‘VAR-i-a-ble’» — так ты тренируешь и лексику, и произношение.
+Для заданий в мини‑группе: «Find one uncountable noun in this README and explain why it’s uncountable» — это сразу и язык, и работа с реальным текстом.
+
 
 ## vocabulary  /vəˈkæb.jə.lər.i/ /voʊˈkæb.jə.ler.i/
 
