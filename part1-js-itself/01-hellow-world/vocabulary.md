@@ -119,24 +119,24 @@ Pronounsation:
 
 ## ⚙️ Process
 
-us: /ˈprɑː.ses/  noun, verb\ 
+us: /ˈprɑː.ses/  noun, verb\
 uk: /ˈprəʊ.ses/ noun, /prəˈses/ verb
 
 ### 📚 Meaning
 
 **1.  💻 Running program** - запущенное приложение *(Special/IT)*\
-A program in execution; an instance of a computer program being run by the operating system:\
+`A program in execution; an instance of a computer program being run by the operating system:`\
 (Выполняемая программа; экземпляр компьютерной программы, запускаемой операционной системой)
 • *The background process is using too much CPU.* — Фоновый процесс сильно грузит процессор.\
 • *Close the background process and all associated windows.* - Закройте фоновый процесс и все относящиеся к нему окна.
 
 **2. ⚙️ Series of actions** *(B1)* - процесс, ход, процедура\
-A series of actions or steps taken in order to achieve a particular a result:\
+`A series of actions or steps taken in order to achieve a particular a result`:\
 (Серия действий или шагов, предпринятых для достижения определенного результата)\
 • *Learning a language is a gradual process.* - Изучение языка - это постепенный процесс.
 
 **3. 🏭 To handle data (verb)** *(B2)* - обрабатывать, переработать\
-To deal with information or documents using a computer or official procedure:\
+`To deal with information or documents using a computer or official procedure`:\
 (Для работы с информацией или документами с использованием компьютера или официальных процедур):\
 • *It takes a few minutes to process your payment.* - Обработка вашего платежа занимает несколько минут.
 
@@ -144,6 +144,7 @@ To deal with information or documents using a computer or official procedure:\
 <summary>Tips</summary><br>
 
 Words:
+- execution /eksɪˈkjuːʃn/ выполнение
 - achieve	/əˈtʃiːv/	достигать, добиваться
 - particular	/pəˈtɪkjʊlə(r)/	конкретный, особый, определённый
 - series	/ˈsɪəriːz/	серия, ряд (примечание: слово неисчисляемое по форме, но согласуется с глаголом во множественном числе)
