@@ -1,5 +1,25 @@
 # 01-01 Vocabulary
 
+## 🗂️ Hello, world!
+
+- [browser](#browser)
+- [environment](#environment)
+- [development](#development)
+- [access](#access)
+- [tutorial](#tutorial)
+- [command](#command)
+- [minimum](#minimum)
+- [concentrate](#concentrate)
+- [focus](#focus)
+- [attach](#attach)
+- [server](#server)
+- [contain](#contain)
+- [automatically](#automatically)
+- [process](#process)
+- [execute](#execute)
+- [follow](#follow)
+
+
 ---
 
 ## 🌐 browser
@@ -8,45 +28,51 @@
 
 ### 📚 Meaning
 **1. 💻 Web browser (Special/IT)** - noun: веб-браузер\
-'A software application used to access and view websites' - Приложения, используемое для доступа к веб-сайтам и их просмотра\
+`A software application used to access and view websites` - Приложения, используемое для доступа к веб-сайтам и их просмотра\
 • *Open your browser and go to the website.* - Открой свой браузер и перейди на веб-сайт.
 
 **2 🛍️ Window shopper** -noun: любитель витрин\
-'someone who browses'- кто-то, кто просматривает, пролистывает\
-**A window-shopper can enjoy the thrill of shopping without the financial stress.** - Любитель витрин может наслаждаться азаром покупок без финансового стресса.
+`someone who browses`- кто-то, кто просматривает, пролистывает\
+`A window-shopper can enjoy the thrill of shopping without the financial stress.` - Любитель витрин может наслаждаться азаром покупок без финансового стресса.
 
 <details>
-<summary><b>Tips/b></summary><br>
+<summary><b>Tips</summary><br>
+
+Words:
+- access — /ˈækses/ — доступ, получать доступ, входить
+- thrill — /θrɪl/ — волнение, трепет, острые ощущения
+- financial — /faɪˈnænʃl/ — финансовый, денежный, экономический
 
 </details>
 
 <details>
 <summary><b>🔗 Collocations & Related Words</b></summary><br>
+
 **Collocations:** *web browser, default browser, open a browser.*<br>
 **Related:** *tab, URL, cache, extension, navigate.*
+
+
 </details>
 
 
 
 ## environment 
-us: /ɪnˈvaɪərənmənt/
-1 noun (count/uncountable)
-2 part
+us: /ɪnˈvaɪərənmənt/ noun (count/uncountable), part
 
 ### 📚 Meaning
 
 **1. 💻 Среда (в программировании)** *(Special)*  
-Everything needed for a program to run or be developed. - Все необходимое для запуска или разрабтки программы\  
+`Everything needed for a program to run or be developed.`- Все необходимое для запуска или разрабтки программы\  
 • *Set up your development **environment**.* — Настройте среду разработки.  
 • *Use **environment** variables to store secrets.* — Используйте переменные окружения для хранения секретов.
 • *The application runs in a production **environment**.* - Приложение работатет в продакт.
 
 **2. 🌿 Окружающая среда, природа** *(A1)* \
-The air, water, and land where people, animals, and plants live.
+`The air, water, and land where people, animals, and plants live`
 • *Pollution is bad for the **environment**.* — Загрязнение вредно для окружающей среды.
 
 **3. 💼 Обстановка, атмосфера, условия (жизни или работы)** *(B1)*  
-The conditions or surroundings in which someone lives or works.  
+`The conditions or surroundings in which someone lives or works.`
 • *Children need a safe **environment**.* — Детям нужна безопасная среда.  
 • *A friendly work **environment** improves productivity.* — Дружелюбная рабочая атмосфера повышает продуктивность.
 
@@ -61,6 +87,14 @@ The conditions or surroundings in which someone lives or works.
 <details>
 <summary><b>Tips/b></summary><br>
 
+Words:
+- develop — /dɪˈveləp/ — развивать, разрабатывать, совершенствовать
+- set up — /set ʌp/ — настраивать, устанавливать, создавать
+- development — /dɪˈveləpmənt/ — развитие, разработка, создание
+- plant — /plɑːnt/ — растение, завод, сажать
+- pollution — /pəˈluːʃn/ — загрязнение, загрязнение среды
+- productivity — /ˌprɒdʌkˈtɪvəti/ — продуктивность, производительность
+- variable — /ˈveəriəbl/ — переменная, изменяемый, непостоянный
 </details>
 
 <details>
@@ -84,6 +118,20 @@ The conditions or surroundings in which someone lives or works.
 **2. 🌱 Growth or progress *(B1)*** - uncount.noun: Развитие, рост.
 `The process of growing, changing, or becoming more advanced.` - Процесс, в ходе которого кто-то или что-то растет или становится более совершенным.
 • *The development of new skills is important for your career.* — Развитие новых навыков важно для вашей карьеры.
+
+<details>
+<summary><b>Tips</b></summary><br>
+
+Words:
+- store — /stɔː(r)/ — хранить, магазин, склад
+- secret — /ˈsiːkrət/ — секрет, тайный, скрытый
+- natural — /ˈnætʃrəl/ — естественный, природный, натуральный
+- growth — /ɡrəʊθ/ — рост, развитие, прирост
+- progress — /ˈprəʊɡres/ — прогресс, продвижение, развитие
+- career — /kəˈrɪə(r)/ — карьера, профессиональный путь
+
+</details>
+
 
 <details>
 <summary><b>🔗 Словосочетания и связанные слова</b></summary><br>
@@ -113,6 +161,15 @@ us: /tuːˈtɔːr.i.əl/
 • *What time is your tutorial.* - Во сколько у тебя занятия?
 
 <details>
+<summary><b>Tips</b></summary><br>
+
+Words:
+- period — /ˈpɪəriəd/ — период, срок, промежуток времени
+- python — /ˈpaɪθən/ — Python (язык программирования), питон
+</details>
+
+
+<details>
 <summary><b>🔗 Collocations & Related Words</b></summary><br>
 **Collocations:** 
 - *video tutorial
@@ -136,6 +193,14 @@ uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
 `An order or instruction given by someone in authority.` - Приказ или инструкция, отданные кем-то, обладающим полномочиями.\
 • *He gave the command to start the engine.* -  Он отдал команду для запуска двигателя
 
+<details>
+<summary><b>Tips</b></summary><br>
+
+Words:
+- authoritative — /ɔːˈθɒrətətɪv/ — авторитетный, достоверный, официальный
+- authority — /ɔːˈθɒrəti/ — власть, авторитет, орган власти
+
+</details>
 
 <details>
 <summary><b>🔗 Collocations & Related Words</b></summary><br>
@@ -165,6 +230,17 @@ uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
 **3. at the least** - adverb: минимально (как?)
 • *You should do three exercise classes a week minimum* - Вам следует выполнять как минимум три занятия физическими упражнениями в неделю
 
+
+<details>
+<summary><b>Tips</b></summary><br>
+
+Words:
+- threshold — /ˈθreʃhəʊld/ — порог, пороговое значение, граница
+- baseline — /ˈbeɪslaɪn/ — базовый уровень, исходная линия, основа
+
+</details>
+
+
 <details>
 
 <summary><b>🔗 Collocations & Related Words</b></summary><br>
@@ -193,6 +269,16 @@ uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
 • *The new architecture **concentrates** all data processing in the cloud.* — Новая архитектура концентрирует всю обработку данных в облаке.
 
 ---
+
+<details>
+<summary><b>Tips</b></summary><br>
+
+Words:
+- architecture — /ˈɑːkɪtektʃə(r)/ — архитектура, строение, проект
+- processing — /ˈprəʊsesɪŋ/ — обработка, переработка, обработка данных
+- cloud — /klaʊd/ — облако, облачный сервис, туча (скорее всего, ты имел в
+
+</details>
 
 <details>
 <summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
