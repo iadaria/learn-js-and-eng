@@ -154,14 +154,16 @@ uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
 
 ## 📚 Meaning
 
-**1. 📉 Smallest amount *(B1)***\
-`The smallest amount or number possible or allowed.` - аименьшая сумма или количество, которое возможно или разрешено.\
+**1. 📉 Smallest amount *(B1)***\ nount: наименьшая сумма\
+`The smallest amount or number possible or allowed.` - наименьшая сумма или количество, которое возможно или разрешено.\
 • *We need a minimum of five people to start the game.* - Для начала игры нам нужно как минимум пять человек.
 
-**2. 💻 Lowest limit (Special/IT)** -самый низкий лимит\
+**2. 💻 Lowest limit (Special/IT)** - adj: самый низкий лимит\
 `The lowest limit or setting in a system or configuration.`- Самый низкий лимит или параметр в системе или конфигурации.\
 • *Check the minimum system requirements before installing.* - Перед установкой проверьте минимальные системные требования.
 
+**3. at the least** - adverb: минимально (как?)
+• *You should do three exercise classes a week minimum* - Вам следует выполнять как минимум три занятия физическими упражнениями в неделю
 
 <details>
 
@@ -174,28 +176,265 @@ uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
 **Related:** *maximum, baseline, threshold, limit.*
 </details>
 
+---
 
-## ⚙️ Automatically
+## concentrate
 
-us:: /ˌɑː.t̬əˈmæt̬.ɪ.kəl.i/ | adverb\
-uk: /ˌɔː.təˈmæt.ɪ.kəl.i/ 
+ us /ˈkɑːn.sən.treɪt/ uk /ˈkɒn.sən.treɪt/ verb
 
-📚 Meaning
-1. ⚙️ By itself (B1)
-In a way that happens by itself without human control.
-• The doors open automatically when you walk up to them.
-2. 🧠 Without thinking (B2)
-In a way that is done without thinking, as a habit or natural reaction.
-• I automatically check my phone when I wake up.
+### 📚 Meaning
+
+**1. 🧠 To direct your attention** *(B1)* - сосредоточится, концентрироваться\
+`To give all your attention to something you are doing, listening to, or thinking about.`- Уделять все свое внимание тому, что вы делаете, слушаете или о чем думаете\
+• *I can't **concentrate** with all this noise.* — Я не могу сосредоточиться из-за всего этого шума.
+
+**2. 💻 To focus attention** *(Special/IT)* Концентрировать (ресурсы, данные) \
+`To bring together or focus resources, data, or processes into a single place.` - Объединить или сфокусировать ресурсы, данные или процессы в одном месте.`
+• *The new architecture **concentrates** all data processing in the cloud.* — Новая архитектура концентрирует всю обработку данных в облаке.
+
+---
+
 <details>
-<summary><b>🔗 Collocations & Related Words</b></summary><br>
-**Collocations:** *update automatically, run automatically, happen automatically.*<br>
-**Related:** *manually (antonym), instantly, instinctively, programmatically.*
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 🧠 *concentrate on* (сосредоточиться на)  
+- 🧠 *concentrate hard* (усиленно сосредотачиваться)  
+- 💻 *concentrate resources* (концентрировать ресурсы)  
+
+**Синонимы и связанные слова:**  
+*focus, pay attention, distract, immerse.*
 </details>
 
-<details>
-<summary><b>Tips/b></summary><br>
+---
 
+## focus 
+
+us /ˈfoʊ.kəs/ uk /ˈfəʊ.kəs/ noun, verb
+
+### 📚 Meaning
+
+**1. 💻 Focus window** *(Special/IT)* - Фокус, фокусное окно (в интерфейсе) \
+`The active element in a graphical user interface that receives keyboard input, or the act of directing system resources.` - Активный элемент графического интерфейса пользователя, который принимает ввод с клавиатуры или управляет системными ресурсами.  \
+• *Click the text box to bring it into **focus**.* — Нажмите на текстовое поле, чтобы перевести на него фокус.
+
+**2. 🎯 Center of attention** *(B1)*- Центр внимания, фокус \
+`The main or central point of something, especially of attention or interest.` - Основная или центральная точка чего-либо, особенно привлекающая внимание или представляющая интерес\  
+• *The main **focus** of the meeting was the new project.* — Главным центром внимания встречи был новый проект.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *lose focus* (потерять фокус окна)  
+- 🎯 *focus on* (сосредоточиться на)  
+- 🎯 *sharp focus* (четкий фокус)  
+
+**Синонимы и связанные слова:**  
+*concentrate, center, clarity, prioritize.*
+</details>
+
+---
+
+## attach 
+
+us & uk: /əˈtætʃ/ verb
+
+### 📚 Meaning
+
+**1. 💻 To add a file** *(Special/IT)* - Прикреплять (файл, документ, скрипт) \
+`To add a file to an email or a digital message.` -Чтобы добавить файл в электронное письмо или цифровое сообщение.\
+• *Don't forget to **attach** the document before sending.* — Не забудьте прикрепить документ перед отправкой.
+
+**2. 📎 to connect or fasten** *(B1)* - Прикреплять, присоединять\
+`To fasten, join, or connect one thing to another.` - Чтобы скрепить, соединить или связать что-то одно с другим\
+• *Please **attach** the label to your luggage.* — Пожалуйста, прикрепите бирку к вашему багажу.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *attach a file* (прикрепить файл)  
+- 📎 *securely attached* (надежно прикреплен)  
+
+**Синонимы и связанные слова:**  
+*connect, link, append, detach (антоним).*
+</details>
+
+---
+
+## server
+
+us /ˈsɜr·vər/ uk /ˈsɜː.vər/ noun (countable)
+
+### 📚 Meaning
+
+**1. 💻 Network computer** *(Special/IT)* - Сервер \
+`A computer or system that provides resources, data, services, or programs to other computers (clients) over a network.` - Компьютер или система, которая предоставляет ресурсы, данные, услуги или программы другим компьютерам (клиентам) по сети.
+• *The website is down because the **server** crashed.* — Сайт не работает, потому что сервер дал сбой.
+
+**2. 🍽️ Restaurant worker** *(B1)* -  Официант \
+`A person who serves food and drinks in a restaurant.` - Человек, который подает еду и напитки в ресторане
+• *Ask the **server** for the bill, please.* — Попросите официанта принести счет, пожалуйста.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *web server* (веб-сервер)  
+- 💻 *database server* (сервер базы данных)  
+- 💻 *server crash* (сбой сервера)  
+
+**Синонимы и связанные слова:**  
+*client, host, network, deployment.*
+</details>
+
+---
+
+## contain
+
+us /kənˈteɪn/ uk /kənˈteɪn/ verb
+
+### 📚 Meaning
+
+**1. 💻 To include data, elements** *(Special/IT)* - Содержать (данные, элементы) \
+`To hold or include specific data, code, or elements within a structure or variable.` - Для хранения или включения определенных данных, кода или элементов в структуру или переменную
+• *This array **contains** all the user IDs.* — Этот массив содержит все идентификаторы пользователей.
+
+**2. 📦 To hold within** *(B1)* - Содержать, вмещать \
+`To have or hold something within itself.` - Иметь или удерживать что-то внутри себя.\
+• *This box **contains** all my old photos.* — В этой коробке находятся все мои старые фотографии.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *contain data* (содержать данные)  
+- 📦 *contain elements* (содержать элементы)  
+
+**Синонимы и связанные слова:**  
+*include, hold, enclose, restrict.*
+</details>
+
+---
+
+## automatically
+
+us /ˌɑː.t̬əˈmæt̬.ɪ.kəl.i/  uk /ˌɔː.təˈmæt.ɪ.kəl.i/ adverb
+
+### 📚 Meaning
+
+**1. 💻 Автоматически (о выполнении кода, процессов)** *(Special/IT)* \
+`In a way that happens by a computer system or program without human intervention.` - Таким образом, чтобы это выполнялось компьютерной системой или программой без вмешательства человека. \
+• *The database backs up **automatically** every night.* — База данных автоматически создает резервную копию каждую ночь.
+
+**2. ⚙️ By itself** *(B1)* -  Автоматически, само собой \
+`In a way that happens by itself without human control.` - Это происходит само по себе, без контроля со стороны человека.\
+• *The doors open **automatically** when you walk up to them.* — Двери открываются автоматически, когда вы подходите к ним.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *update automatically* (обновляться автоматически)  
+- 💻 *run automatically* (запускаться автоматически)  
+
+**Синонимы и связанные слова:**  
+*manually (антоним), instantly, instinctively, programmatically.*
+</details>
+
+## execute 
+
+/ˈek.sɪ.kjuːt/ /ˈek.sə.kjuːt/ (uk & us) verb
+
+### 📚 Meaning
+
+**1. 💻 Выполнять (код, программу, команду)** *(Special/IT)* \
+`to make a computer program or instruction work`- чтобы заставить компьютерную программу или инструкцию работать\
+• *Click the button to **execute** the script.* — Нажмите кнопку, чтобы выполнить скрипт.\  
+• *The system failed to **execute** the command.* — Система не смогла выполнить команду.
+
+**2. ⚖️ Выполнять, осуществлять (план, приказ)** *(B2)* \
+To carry out or put into effect a plan, order, or piece of work. - Выполнять или приводить в исполнение план, заказ или часть работы.  \
+• *The team will **execute** the project next month.* — Команда выполнит проект в следующем месяце.
+
+**3. ⚔️ Казнить (человека)** *(C1)* \
+`To kill someone as a legal punishment.`- Убить кого-либо в качестве законного наказания.  \
+• *The prisoner was **executed** for his crimes.* — Заключенный был казнен за свои преступления.
+
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**  
+- 💻 *execute a command* (выполнить команду)  
+- 💻 *execute code* (выполнить код)  
+- 💻 *execute a program* (запустить программу)  
+- ⚖️ *execute a plan* (выполнить план)  
+- ⚔️ *execute a prisoner* (казнить заключенного)  
+
+**Синонимы и связанные слова:**  
+*run, perform, carry out, implement, deploy.*
+</details>
+
+---
+
+## follow 
+
+us /ˈfɑː.loʊ/ uk /ˈfɒl.əʊ/ verb
+
+### 📚 Meaning
+
+**1. 👣 Следовать за кем-то/чем-то** *(A1)* \
+`To go or come after someone or something`\ - Идти или следовать за кем-либо или чем-либо\
+• *She **followed** him into the room.* — Она последовала за ним в комнату.
+
+**3. 📖 Следовать (правилам, инструкциям)** *(B1)* \
+`To act according to rules, instructions, or advice.` - Действовать в соответствии с правилами, инструкциями или советами.\
+• *Please **follow** the instructions carefully.* — Пожалуйста, внимательно следуйте инструкциям.
+
+**4. 🧠 Понимать, следить за мыслью** *(B1)* \
+`To understand an explanation, story, or argument.` - Чтобы понять объяснение, историю или аргументацию.  \
+• *I can't **follow** what you're saying.* — Я не могу понять, что ты говоришь.
+
+**5. 💻 Следовать (инструкциям, логике кода), отслеживать** *(Special/IT)* \
+`To go along a sequence of instructions, or to track the flow of a program or data.` - Для выполнения последовательности инструкций или отслеживания потока выполнения программы или данных.\
+• *The code **follows** a specific logic flow.* — Код следует определенной логике выполнения.  
+• *It's hard to **follow** the execution path in this function.* — Трудно отследить путь выполнения в этой функции.
+---
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
+**Устойчивые сочетания:**
+
+- 💻 *follow the logic* (следовать логике)  
+- 💻 *follow the instructions* (следовать инструкциям)  
+- 👣 *follow someone* (следовать за кем-то)  
+- 📖 *follow the rules* (следовать правилам)  
+- 🧠 *follow the conversation* (следить за разговором)  
+
+**Синонимы и связанные слова:**  
+*pursue, track, obey, comply, understand, comprehend.*
 </details>
 
 ## ⚙️ Process
