@@ -2,94 +2,53 @@
 
 ---
 
-## browser /ˈbraʊzər/ /ˈbraʊzə/
+## 🌐 browser
 
-- noun: браузер, веб-браузер
+/ˈbraʊzər/ noun: браузер, веб-браузер
 
-### A1 ⭐5 explanation: A program that lets you open websites on the Internet.
+### 📚 Meaning
+**1. 💻 Web browser (Special/IT)** - noun: веб-браузер\
+'A software application used to access and view websites' - Приложения, используемое для доступа к веб-сайтам и их просмотра\
+• *Open your browser and go to the website.* - Открой свой браузер и перейди на веб-сайт.
 
-### Examples
+**2 🛍️ Window shopper** -noun: любитель витрин\
+'someone who browses'- кто-то, кто просматривает, пролистывает\
+**A window-shopper can enjoy the thrill of shopping without the financial stress.** - Любитель витрин может наслаждаться азаром покупок без финансового стресса.
 
-> I opened the website in my browser.  
-> Я открыл сайт в браузере.
+<details>
+<summary><b>Tips/b></summary><br>
 
-> Which browser do you use?  
-> Каким браузером ты пользуешься?
+</details>
 
-> Open your browser and go to javascript.info.  
-> Открой браузер и перейди на сайт javascript.info.
-
----
-
-### B1 ⭐3: Software used to access, display, and interact with web pages.
-
-### Examples
-
-> Modern browsers support JavaScript modules.  
-> Современные браузеры поддерживают модули JavaScript.
-
-> Every browser has developer tools.  
-> У каждого браузера есть инструменты разработчика.
-
----
-
-### Common Collocations
-
-- web browser
-- browser tab
-- browser window
-- browser history
-- default browser
-- open a browser
-
----
-
-### Related Words
-
-- website
-- webpage
-- tab
-- bookmark
-- search engine
-- Internet
-
----
-
-### In Programming
-
-- A browser executes JavaScript.
-- Browsers provide the DOM API.
-- Chrome and Firefox are popular browsers.
-
----
+<details>
+<summary><b>🔗 Collocations & Related Words</b></summary><br>
+**Collocations:** *web browser, default browser, open a browser.*<br>
+**Related:** *tab, URL, cache, extension, navigate.*
+</details>
 
 
-## environment /ɪnˈvaɪ.rə.mənt/ /ɪnˈvaɪ.rə.mənt/ (us & uk)
+
+## environment 
+us: /ɪnˈvaɪərənmənt/
 1 noun (count/uncountable)
 2 part
 
 ### 📚 Meaning
 
-**1. 🌿 Окружающая среда, природа** *(A1)* \
-The air, water, and land where people, animals, and plants live 
+**1. 💻 Среда (в программировании)** *(Special)*  
+Everything needed for a program to run or be developed. - Все необходимое для запуска или разрабтки программы\  
+• *Set up your development **environment**.* — Настройте среду разработки.  
+• *Use **environment** variables to store secrets.* — Используйте переменные окружения для хранения секретов.
+• *The application runs in a production **environment**.* - Приложение работатет в продакт.
+
+**2. 🌿 Окружающая среда, природа** *(A1)* \
+The air, water, and land where people, animals, and plants live.
 • *Pollution is bad for the **environment**.* — Загрязнение вредно для окружающей среды.
 
-**2. 💼 Окружение, условия (жизни или работы)** *(B1)*  
+**3. 💼 Обстановка, атмосфера, условия (жизни или работы)** *(B1)*  
 The conditions or surroundings in which someone lives or works.  
 • *Children need a safe **environment**.* — Детям нужна безопасная среда.  
 • *A friendly work **environment** improves productivity.* — Дружелюбная рабочая атмосфера повышает продуктивность.
-
-**3. 💻 Среда (в программировании)** *(Special)*  
-Everything needed for a program to run or be developed.  
-• *Set up your development **environment**.* — Настройте среду разработки.  
-• *Use **environment** variables to store secrets.* — Используйте переменные окружения для хранения секретов.
-• *The application runs in a production **environment**.* - Приложение работате в продакт.
-
----
-
-<details>
-<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
-<br>
 
 **Устойчивые сочетания:**  
 - 🌿 *natural environment* (природная среда)  
@@ -97,25 +56,147 @@ Everything needed for a program to run or be developed.
 - 💻 *development / production / testing environment* (среда разработки / продакшн / тестирования)  
 - ⚙️ *environment variables* (переменные окружения)  
 
+---
+
+<details>
+<summary><b>Tips/b></summary><br>
+
+</details>
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова (нажми, чтобы раскрыть)</b></summary>
+<br>
+
 **Синонимы и связанные слова:**  
 *nature, surroundings, ecosystem, workspace, configuration, server.*
 </details>
 
----
+## 📈 Development
 
-## Notes
-
-Meaning:
-In IT, **environment** usually means the software or system configuration where an application runs, while in everyday English it most often refers to the natural world or the conditions around people.
-
-Pronounsation:
-не произносим n?
+/dɪˈvel.əp.mənt/ (us & uk) |  noun (count./uncount.)
 
 ### 📚 Meaning
 
-**1. ** ** \
+**1. 💻 Software development *(Special/IT)*** - noun: Разработка (программного обеспечения) \
+`The process of creating, designing, and maintaining software or systems.` - Процесс создания программного обеспечения или систем.\
+• *Software development takes a lot of time and testing.* — Разработка ПО требует много времени и тестирования.
 
-• ** — .
+**2. 🌱 Growth or progress *(B1)*** - uncount.noun: Развитие, рост.
+`The process of growing, changing, or becoming more advanced.` - Процесс, в ходе которого кто-то или что-то растет или становится более совершенным.
+• *The development of new skills is important for your career.* — Развитие новых навыков важно для вашей карьеры.
+
+<details>
+<summary><b>🔗 Словосочетания и связанные слова</b></summary><br>
+**Устойчивые сочетания:**
+- *software development* (разработка ПО),
+- *career development* (карьерный рост),
+- *sustainable development* (устойчивое развитие).
+<br>
+**Связанные слова:** *progress, evolution, deployment, coding.*
+</details>
+
+## 🎓 Tutorial
+
+uk: /tjuːˈtɔː.ri.əl/ \
+us: /tuːˈtɔːr.i.əl/
+
+### 📚 Meaning
+
+**1. 💻 Step-by-step guide *(Special/IT)*** - пошаговое руководство
+`A document or video that provides step-by-step instructions on how to do something.` - Документ или видео, в котором содержатся пошаговые инструкции о том, как что-то сделать.\
+`a set of instructions and exercises that teaches you how to use a computer program` - набор инструкций и упражнений, которые научат вас пользоваться компьютерной программой\
+• *I watched a tutorial on how to install Python.* - Я просмотрел руководство по установке Python
+
+**2. 🎓 Small group class *(B2)*** - занятия в малых группах, урок\
+`A class or period of teaching given to an individual or a very small group (common in UK universities).` - Класс или период обучения, проводимый индивидуально или в очень небольшой группе\
+• *She has a math tutorial every Tuesday.* - По вторникам у нее занятия по математике\
+• *What time is your tutorial.* - Во сколько у тебя занятия?
+
+<details>
+<summary><b>🔗 Collocations & Related Words</b></summary><br>
+**Collocations:** 
+- *video tutorial
+- interactive tutorial
+- follow a tutorial.*<br>
+**Related:** *guide, manual, documentation, walkthrough.*
+</details>
+
+## 🎖️ Command
+
+uk: /kəˈmænd/, us: /kəˈmɑːnd/ | noun / verb
+
+### 📚 Meaning
+
+**1. 💻 Computer instruction *(Special/IT)*** - Комьютерная инструкция
+`An instruction given to a computer system or program to perform a specific task.` - Инструкция, заданная
+ компьютерной системе или программе для выполнения определенной задачи\
+• *Type the command in the terminal and press Enter.* - Введите команду в терминале и нажмите Enter.
+
+**2. 🎖️ Authoritative order *(B2)*** - Авторитетный приказ
+`An order or instruction given by someone in authority.` - Приказ или инструкция, отданные кем-то, обладающим полномочиями.\
+• *He gave the command to start the engine.* -  Он отдал команду для запуска двигателя
+
+
+<details>
+<summary><b>🔗 Collocations & Related Words</b></summary><br>
+**Collocations:**:
+- command line
+- command prompt
+- execute a command
+<br>
+
+**Related:** *instruction, order, terminal, shell.*
+</details>
+
+## 📉 Minimum
+
+ us  /ˈmɪn.ə.məm/, uk  /ˈmɪn.ɪ.məm/  noun / adjective
+
+## 📚 Meaning
+
+**1. 📉 Smallest amount *(B1)***\
+`The smallest amount or number possible or allowed.` - аименьшая сумма или количество, которое возможно или разрешено.\
+• *We need a minimum of five people to start the game.* - Для начала игры нам нужно как минимум пять человек.
+
+**2. 💻 Lowest limit (Special/IT)** -самый низкий лимит\
+`The lowest limit or setting in a system or configuration.`- Самый низкий лимит или параметр в системе или конфигурации.\
+• *Check the minimum system requirements before installing.* - Перед установкой проверьте минимальные системные требования.
+
+
+<details>
+
+<summary><b>🔗 Collocations & Related Words</b></summary><br>
+**Collocations:**
+- minimum wage, 
+- minimum requirement
+- absolute minimum.*<br>
+
+**Related:** *maximum, baseline, threshold, limit.*
+</details>
+
+
+## ⚙️ Automatically
+
+us:: /ˌɑː.t̬əˈmæt̬.ɪ.kəl.i/ | adverb\
+uk: /ˌɔː.təˈmæt.ɪ.kəl.i/ 
+
+📚 Meaning
+1. ⚙️ By itself (B1)
+In a way that happens by itself without human control.
+• The doors open automatically when you walk up to them.
+2. 🧠 Without thinking (B2)
+In a way that is done without thinking, as a habit or natural reaction.
+• I automatically check my phone when I wake up.
+<details>
+<summary><b>🔗 Collocations & Related Words</b></summary><br>
+**Collocations:** *update automatically, run automatically, happen automatically.*<br>
+**Related:** *manually (antonym), instantly, instinctively, programmatically.*
+</details>
+
+<details>
+<summary><b>Tips/b></summary><br>
+
+</details>
 
 ## ⚙️ Process
 
