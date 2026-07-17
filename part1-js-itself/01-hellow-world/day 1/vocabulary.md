@@ -2,23 +2,22 @@
 
 ## 🗂️ Hello, world!
 
-- [browser](#browser)
-- [environment](#environment)
-- [development](#development)
-- [access](#access)
-- [tutorial](#tutorial)
-- [command](#command)
-- [minimum](#minimum)
-- [concentrate](#concentrate)
-- [focus](#focus)
-- [attach](#attach)
-- [server](#server)
-- [contain](#contain)
-- [automatically](#automatically)
-- [process](#process)
-- [execute](#execute)
-- [follow](#follow)
-
+1) [browser](#browser)
+2) [environment](#environment)
+3) [development](#development)
+4) [access](#access)
+5) [tutorial](#tutorial)
+6) [command](#command)
+7) [minimum](#minimum)
+8) [concentrate](#concentrate)
+9) [focus](#focus)
+10) [attach](#attach)
+11) [server](#server)
+12) [contain](#contain)
+13) [automatically](#automatically)
+14) [process](#process)
+15) [execute](#execute)
+16) [follow](#follow)
 
 ---
 

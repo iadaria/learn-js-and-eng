@@ -1,0 +1,42 @@
+# 01-1 lesson: Hello, World!
+
+Level:
+A2–B1-B2
+
+
+
+## Vocabulary
+
+1) [browser](vocabulary.md#browser)
+2) [environment](vocabulary.md#environment)
+3) [development](vocabulary.md#development)
+4) [access](vocabulary.md#access)
+5) [tutorial](vocabulary.md#tutorial)
+6) [command](vocabulary.md#command)
+7) [minimum](vocabulary.md#minimum)
+8) [concentrate](vocabulary.md#concentrate)
+9) [focus](vocabulary.md#focus)
+10) [attach](vocabulary.md#attach)
+11) [server](vocabulary.md#server)
+12) [contain](vocabulary.md#contain)
+13) [automatically](vocabulary.md#automatically)
+14) [process](vocabulary.md#process)
+15) [execute](vocabulary.md#execute)
+16) [follow](vocabulary.md#follow)
+
+## Pharagraphs
+
+- JavaScript
+- Browser
+- Development Environment
+
+
+## Grammar
+
+- Present Simple
+- Imperative
+- Transitive verbs
+
+Estimated time
+
+30–40 minutes
