@@ -1,11 +1,15 @@
 # Грамматика: Переходные и непереходные глаголы / Transitive and Intransitive Verbs
 
-> `[Переходные глаголы](./grammar-verbs.md#переходные-глаголы)`  
-> `[Transitive Verbs](./grammar-verbs.md#transitive-verbs)`
+> [Переходные глаголы](#переходные-глаголы)\
+> [Непереходные глаголы](#непереходные-глаголы)\
+> [Оба](#глаголы-которые-могут-быть-и-теми-и-другими)\
+> [Transitive Verbs](#transitive-verbs)\
+> [Intransitive Verbs](#intransitive-verbs)\
+> [Ambitransitive](#verbs-that-can-be-both-ambitransitive)
 
 ---
 
-### Переходные глаголы
+## Переходные глаголы
 
 - **Определение:** Глагол, который обязательно требует прямого дополнения (объекта), на которое направлено действие. Отвечает на вопросы **кого? что?** *без предлога*.
 - **Особенность:** Без объекта смысл предложения неполный или странный.
@@ -14,7 +18,7 @@
   - ✗ *Attach.* (Непонятно, что именно прикрепить)
   - Другие примеры: *read* (a bool), *install* (a package), *deploy* (an application).
 
-### Непереходные глаголы
+## Непереходные глаголы
 
 - **Определение:** Глаголы, которые **не могут** иметь прямого дополнения. Они описывают действие или состояние, которое не переходит на объект.
 - **Особенность:** Могут использоваться с обстоятельствами (где? когда? как?), но не с прямыми объектами.
@@ -23,7 +27,7 @@
   - ✗ I sleep a bed Я *сплю* **кровать**. (Глагол `sleep` не принимает прямое дополнение)
   - Other examples: *exist* (the file doesn't exist), *occur* (a timeout occurred), *go* (I went home).
 
-### Глаголы, которые могут быть и теми, и другими
+## Глаголы, которые могут быть и теми, и другими
 
 - **Определение:** Один и тот же глагол может быть переходным или непереходным в зависимости от контекста. В русском языке непереходная форма часто образуется с помощью постфикса **-ся**.
 - **Пример (Открыть / Открыться):**
@@ -32,9 +36,8 @@
 
 ---
 
-## 🇬🇧 English Version
+## Transitive Verbs
 
-### Transitive Verbs
 - **Definition:** A verb that necessarily requires a **direct object** (an object that receives the action). It answers the questions **what?** or **whom?** *without a preposition*.
 - **Key trait:** Without an object, the sentence feels incomplete or strange.
 - **Examples:**
@@ -42,7 +45,8 @@
   - ✗ *Attach.* (Unclear what to attach)
   - Other examples: *read* (a book), *install* (a package), *deploy* (an application).
 
-### Intransitive Verbs
+## Intransitive Verbs
+
 - **Definition:** Verbs that **cannot** have a direct object. They describe an action or state that is not directed at an object.
 - **Key trait:** They can be followed by adverbials (where? when? how?), but never by a direct object.
 - **Examples:**
@@ -50,7 +54,8 @@
   - ✗ I *sleep* **a bed**. (The verb "sleep" does not take a direct object)
   - Other examples: *exist* (the file doesn't exist), *occur* (a timeout occurred), *go* (I went home).
 
-### Verbs that can be Both (Ambitransitive)
+## Verbs that can be Both (Ambitransitive)
+
 - **Definition:** The exact same verb can be used transitively or intransitively depending on the context. In English, the verb form stays the same, but the sentence structure changes.
 - **Example (To open):**
   1. **Transitive:** He *opened* **the window**. (There is a direct object: what? the window)
