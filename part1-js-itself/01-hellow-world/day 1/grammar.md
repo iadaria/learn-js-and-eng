@@ -1,47 +1,59 @@
-# Transitive and Intransitive Verbs / Переходные и непереходные глаголы
+# Грамматика: Переходные и непереходные глаголы / Transitive and Intransitive Verbs
 
-## Transitive Verbs (Переходные глаголы)
+> `[Переходные глаголы](./grammar-verbs.md#переходные-глаголы)`  
+> `[Transitive Verbs](./grammar-verbs.md#transitive-verbs)`
 
-| Russian | English |
-|-------------------|---------|
-| **Определение:** Это глагол, который обязательно требует прямого дополнения (объект), на который направлено действие. | **Definition:** A verb that necessarily requires a direct object (an object) at which the action is directed. |
-| Прямое дополнение — предмет отвечающий на вопросы что? кого? Без предлога. | Direct object — an object that answers the questions what? whom? Without a preposition. |
-| Они выражают действие, которое непосредственно переходит на какое-нибудь лицо/предмет. | They express an action that directly transfers to some person/object. |
-| Без объекта смысл предложения обычно неполный или странный. | Without an object, the meaning of the sentence is usually incomplete or strange. |
-| **Пример с Attach:** | **Example with Attach:** |
-| ✓ Attach the file to the email. (прикрепи файл) | ✓ Attach the file to the email. |
-| ✗ Attach. — непонятно, что прикреплять. | ✗ Attach. — unclear what to attach. |
-| **Другие примеры переходных глаголов:** | **Other examples of transitive verbs:** |
-| read → I read a book. | read → I read a book. |
-| buy → She bought a car. | buy → She bought a car. |
-| install → Install the package. | install → Install the package. |
-| deploy → Deploy the application. | deploy → Deploy the application. |
+---
 
-## Intransitive Verbs (Непереходные глаголы)
+### Переходные глаголы
 
-| Russian | English |
-|-------------------|---------|
-| **Определение:** Это глаголы, которые не могут иметь прямого дополнения. | **Definition:** These are verbs that cannot have a direct object. |
-| Они описывают действие или состояние, которое не направлено непосредственно на объект. | They describe an action or state that is not directly directed at an object. |
-| **Примеры:** | **Examples:** |
-| sleep → I sleep. | sleep → I sleep. |
-| go → I went home. | go → I went home. |
-| exist → The file doesn't exist. /ɪɡˈzst/ | exist → The file doesn't exist. |
-| occur → A timeout occurred. /əˈkɜːr/ | occur → A timeout occurred. |
-| **Замечание:** | **Note:** |
-| ✓ I sleep in my bed. (my bed - не прямое дополнение, а обстоятельство места и предлог in) | ✓ I sleep in my bed. (my bed is not a direct object, but an adverbial of place with preposition "in") |
-| ✗ I sleep a bed. — глагол sleep не принимает прямое дополнение | ✗ I sleep a bed. — the verb "sleep" does not take a direct object |
+- **Определение:** Глагол, который обязательно требует прямого дополнения (объекта), на которое направлено действие. Отвечает на вопросы **кого? что?** *без предлога*.
+- **Особенность:** Без объекта смысл предложения неполный или странный.
+- **Примеры:**
+  - ✓ *Attach* **the file**. (Что? файл — прямое дополнение)
+  - ✗ *Attach.* (Непонятно, что именно прикрепить)
+  - Другие примеры: *read* (a bool), *install* (a package), *deploy* (an application).
 
-## Both Transitive & Intransitive Verbs (Переходные и непереходные)
+### Непереходные глаголы
 
-| Russian | English |
-|-------------------|---------|
-| **Определение:** Очень часто один и тот же глагол может быть переходным, так и непереходным. | **Definition:** Very often the same verb can be both transitive and intransitive. |
-| В русском языке - это два разных глагола, которые либо отличаются -ся у непереходного либо совершенно различны. | In Russian - these are two different verbs, which either differ by -ся for intransitive or are completely different. |
-| **to open** | **to open** |
-| 1. открывать (переходный) | 1. to open (transitive) |
-| He opened the window. | He opened the window. |
-| Он открыл окно. | He opened the window. |
-| 2. открываться (непереходный) | 2. to open (intransitive) |
-| The library opened at 10 o'clock. | The library opened at 10 o'clock. |
-| Библиотека открылась в 10. | The library opened at 10. |
+- **Определение:** Глаголы, которые **не могут** иметь прямого дополнения. Они описывают действие или состояние, которое не переходит на объект.
+- **Особенность:** Могут использоваться с обстоятельствами (где? когда? как?), но не с прямыми объектами.
+- **Примеры:**
+  - ✓ I *sleep* **in my bed**. (`in my bed` — обстоятельство места с предлогом, а не прямое дополнение)
+  - ✗ I sleep a bed Я *сплю* **кровать**. (Глагол `sleep` не принимает прямое дополнение)
+  - Other examples: *exist* (the file doesn't exist), *occur* (a timeout occurred), *go* (I went home).
+
+### Глаголы, которые могут быть и теми, и другими
+
+- **Определение:** Один и тот же глагол может быть переходным или непереходным в зависимости от контекста. В русском языке непереходная форма часто образуется с помощью постфикса **-ся**.
+- **Пример (Открыть / Открыться):**
+  1. **Переходный:** He *opened* **the window**. (Есть прямое дополнение: что? окно)
+  2. **Непереходный:** The library *opened* at 10 o'clock. (Действие происходит само по себе, объекта нет)
+
+---
+
+## 🇬🇧 English Version
+
+### Transitive Verbs
+- **Definition:** A verb that necessarily requires a **direct object** (an object that receives the action). It answers the questions **what?** or **whom?** *without a preposition*.
+- **Key trait:** Without an object, the sentence feels incomplete or strange.
+- **Examples:**
+  - ✓ *Attach* **the file**. (What? the file — direct object)
+  - ✗ *Attach.* (Unclear what to attach)
+  - Other examples: *read* (a book), *install* (a package), *deploy* (an application).
+
+### Intransitive Verbs
+- **Definition:** Verbs that **cannot** have a direct object. They describe an action or state that is not directed at an object.
+- **Key trait:** They can be followed by adverbials (where? when? how?), but never by a direct object.
+- **Examples:**
+  - ✓ I *sleep* **in my bed**. ("in my bed" is an adverbial of place with a preposition, not a direct object)
+  - ✗ I *sleep* **a bed**. (The verb "sleep" does not take a direct object)
+  - Other examples: *exist* (the file doesn't exist), *occur* (a timeout occurred), *go* (I went home).
+
+### Verbs that can be Both (Ambitransitive)
+- **Definition:** The exact same verb can be used transitively or intransitively depending on the context. In English, the verb form stays the same, but the sentence structure changes.
+- **Example (To open):**
+  1. **Transitive:** He *opened* **the window**. (There is a direct object: what? the window)
+  2. **Intransitive:** The library *opened* at 10 o'clock. (The action happens by itself, no object)
+
+---
