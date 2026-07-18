@@ -23,16 +23,18 @@
 
 ## 🌐 browser
 
-/ˈbraʊzər/ noun: браузер, веб-браузер
+us /ˈbraʊzər/ uk: /ˈbraʊzər/ noun
 
 ### 📚 Meaning
-**1. 💻 Web browser (Special/IT)** - noun: веб-браузер\
-`A software application used to access and view websites` - Приложения, используемое для доступа к веб-сайтам и их просмотра\
-• *Open your browser and go to the website.* - Открой свой браузер и перейди на веб-сайт.
 
-**2 🛍️ Window shopper** -noun: любитель витрин\
-`someone who browses`- кто-то, кто просматривает, пролистывает\
-`A window-shopper can enjoy the thrill of shopping without the financial stress.` - Любитель витрин может наслаждаться азаром покупок без финансового стресса.
+**1. 💻 Web browser** *(Special/IT)* - noun: веб-браузер\
+`A software application used to access and view websites` - Приложения, используемое для доступа к веб-сайтам и их просмотра\
+• *Open your **browser** and go to the website.* - Открой свой браузер и перейди на веб-сайт.
+
+**2 🛍️ Window shopper** *(B1)*- noun: любитель витрин\
+2.1 `someone who browses`- кто-то, кто просматривает, пролистывает\
+2.2 `A window-shopper can enjoy the thrill of shopping without the financial stress.` - Любитель витрин может наслаждаться азаром покупок без финансового стресса.\
+• *She’s just **browsing** the online store—like a window shopper.* - Она просто просматривает интернет‑магазин, как покупатель у витрины.
 
 <details>
 <summary><b>Tips</summary><br>
@@ -50,12 +52,12 @@ Words:
 **Collocations:** *web browser, default browser, open a browser.*<br>
 **Related:** *tab, URL, cache, extension, navigate.*
 
-
 </details>
 
-
+---
 
 ## environment 
+
 us: /ɪnˈvaɪərənmənt/ noun (count/uncountable), part
 
 ### 📚 Meaning
@@ -104,6 +106,8 @@ Words:
 *nature, surroundings, ecosystem, workspace, configuration, server.*
 </details>
 
+---
+
 ## 📈 Development
 
 /dɪˈvel.əp.mənt/ (us & uk) |  noun (count./uncount.)
@@ -141,6 +145,8 @@ Words:
 <br>
 **Связанные слова:** *progress, evolution, deployment, coding.*
 </details>
+
+---
 
 ## 🎓 Tutorial
 
