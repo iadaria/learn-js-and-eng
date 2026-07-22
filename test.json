@@ -1,0 +1,194 @@
+[
+  {
+    "word": "tutorial",
+    "phonetic": "/tʃʉˈtoːɹiəɫ/",
+    "phonetics": [
+      {
+        "text": "/tʃʉˈtoːɹiəɫ/",
+        "audio": ""
+      },
+      {
+        "text": "/tjuːˈtɔːɹɪəl/",
+        "audio": ""
+      },
+      {
+        "text": "/tuwˈtɔɹijəɫ/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A self-paced learning exercise; a lesson prepared so that a student can learn at their own speed, at their convenience.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An interactive class taught by a tutor to students at university or college, individually or in small groups.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Of or pertaining to a tutor; belonging to, or exercised by, a tutor.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/tutorial"
+    ]
+  },
+  {
+    "word": "browser",
+    "phonetic": "/ˈbɹaʊzə(ɹ)/",
+    "phonetics": [
+      {
+        "text": "/ˈbɹaʊzə(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/browser-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=49875105",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or animal who browses.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A person who examines goods for sale but purchases nothing.",
+            "synonyms": [],
+            "antonyms": [
+              "nonbrowser"
+            ]
+          },
+          {
+            "definition": "A web browser.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "nonbrowser"
+        ]
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/browser"
+    ]
+  },
+  {
+    "word": "development",
+    "phonetic": "/dɪˈvɛləpmənt/",
+    "phonetics": [
+      {
+        "text": "/dɪˈvɛləpmənt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/development-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=856959",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of developing; growth, directed change.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The development of this story has been slow."
+          },
+          {
+            "definition": "The process by which a mature multicellular organism or part of an organism is produced by the addition of new cells.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The organism has reached a crucial stage in its development."
+          },
+          {
+            "definition": "Something which has developed.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Our news team brings you the latest developments."
+          },
+          {
+            "definition": "A project consisting of one or more commercial or residential buildings.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The building of such a project.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The application of new ideas to practical problems (cf. research).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Our development department has produced three new adhesives this year."
+          },
+          {
+            "definition": "The active placement of the pieces, or the process of achieving it.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "White's development is good, but black's has been hampered by the pawn on e5."
+          },
+          {
+            "definition": "The process by in which previous material is transformed and restated.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The second section of a piece of music in sonata form, in which the original theme is revisited in altered and varying form.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The expression of a function in the form of a series.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/development"
+    ]
+  }
+]

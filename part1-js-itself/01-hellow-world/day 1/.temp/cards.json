@@ -1,0 +1,574 @@
+[
+  {
+    "word": "tutorial",
+    "emoji": "🎓",
+    "transcription_us": "/tuːˈtɔːriəl/",
+    "transcription_uk": "/tjuːˈtɔːriəl/",
+    "part_of_speech_general": "noun",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Step-by-step guide",
+        "short_title_ru": "пошаговое руководство",
+        "level": "Special/IT",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "A document or video that provides step-by-step instructions on how to do something. Документ или видео, в котором содержатся пошаговые инструкции о том, как что-то сделать.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          },
+          {
+            "text": "A set of instructions and exercises that teaches you how to use a computer program. Набор инструкций и упражнений, которые научат вас пользоваться компьютерной программой.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "I watched a tutorial on how to install Python.",
+            "ru": "Я просмотрел руководство по установке Python."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🎓",
+        "short_title_en": "Small group class",
+        "short_title_ru": "занятия в малых группах, урок",
+        "level": "B2",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "A class or period of teaching given to an individual or a very small group (common in UK universities). Класс или период обучения, проводимый индивидуально или в очень небольшой группе (часто в британских университетах).",
+            "source": "ai-qwen",
+            "level": "B2",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "She has a math tutorial every Tuesday.",
+            "ru": "По вторникам у нее занятия по математике."
+          },
+          {
+            "en": "What time is your tutorial?",
+            "ru": "Во сколько у тебя занятия?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "environment",
+    "emoji": "🌍",
+    "transcription_us": "/ɪnˈvaɪrənmənt/",
+    "transcription_uk": "/ɪnˈvaɪrənmənt/",
+    "part_of_speech_general": "noun",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Environment (programming)",
+        "short_title_ru": "среда (в программировании)",
+        "level": "Special",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "Everything needed for a program to run or be developed. Все необходимое для запуска или разработки программы.",
+            "source": "ai-qwen",
+            "level": "Special",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Set up your development environment.",
+            "ru": "Настройте среду разработки."
+          },
+          {
+            "en": "Use environment variables to store secrets.",
+            "ru": "Используйте переменные окружения для хранения секретов."
+          },
+          {
+            "en": "The application runs in a production environment.",
+            "ru": "Приложение работает в продакшен-среде."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🌿",
+        "short_title_en": "Environment (nature)",
+        "short_title_ru": "окружающая среда, природа",
+        "level": "A1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The air, water, and land where people, animals, and plants live. Воздух, вода и земля, где живут люди, животные и растения.",
+            "source": "ai-qwen",
+            "level": "A1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "Pollution is bad for the environment.",
+            "ru": "Загрязнение вредно для окружающей среды."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "emoji": "💼",
+        "short_title_en": "Environment (conditions)",
+        "short_title_ru": "обстановка, атмосфера, условия",
+        "level": "B1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The conditions or surroundings in which someone lives or works. Условия или окружение, в которых кто-то живет или работает.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "Children need a safe environment.",
+            "ru": "Детям нужна безопасная среда."
+          },
+          {
+            "en": "A friendly work environment improves productivity.",
+            "ru": "Дружелюбная рабочая атмосфера повышает продуктивность."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "development",
+    "emoji": "📈",
+    "transcription_us": "/dɪˈveləpmənt/",
+    "transcription_uk": "/dɪˈveləpmənt/",
+    "part_of_speech_general": "noun",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Software development",
+        "short_title_ru": "разработка (программного обеспечения)",
+        "level": "Special/IT",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The process of creating, designing, and maintaining software or systems. Процесс создания, проектирования и поддержки программного обеспечения или систем.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Software development takes a lot of time and testing.",
+            "ru": "Разработка ПО требует много времени и тестирования."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🌱",
+        "short_title_en": "Growth or progress",
+        "short_title_ru": "развитие, рост",
+        "level": "B1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The process of growing, changing, or becoming more advanced. Процесс, в ходе которого кто-то или что-то растет или становится более совершенным.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "The development of new skills is important for your career.",
+            "ru": "Развитие новых навыков важно для вашей карьеры."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "browser",
+    "emoji": "🌐",
+    "transcription_us": "/ˈbraʊzər/",
+    "part_of_speech_general": "noun",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Web browser",
+        "short_title_ru": "веб-браузер",
+        "level": "Special/IT",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "A software application used to access and view websites. Приложение, используемое для доступа к веб-сайтам и их просмотра.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Open your browser and go to the website.",
+            "ru": "Открой свой браузер и перейди на веб-сайт."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🛍️",
+        "short_title_en": "Window shopper",
+        "short_title_ru": "любитель витрин",
+        "level": "B1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "Someone who browses. Кто-то, кто просматривает, пролистывает.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "A window-shopper can enjoy the thrill of shopping without the financial stress.",
+            "ru": "Любитель витрин может наслаждаться азартом покупок без финансового стресса."
+          },
+          {
+            "en": "She's just browsing the online store—like a window shopper.",
+            "ru": "Она просто просматривает интернет-магазин, как покупатель у витрины."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "command",
+    "emoji": "🎖️",
+    "transcription_us": "/kəˈmænd/",
+    "transcription_uk": "/kəˈmɑːnd/",
+    "part_of_speech_general": "noun / verb",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Computer instruction",
+        "short_title_ru": "компьютерная инструкция",
+        "level": "Special/IT",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "An instruction given to a computer system or program to perform a specific task. Инструкция, заданная компьютерной системе или программе для выполнения определенной задачи.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Type the command in the terminal and press Enter.",
+            "ru": "Введите команду в терминале и нажмите Enter."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🎖️",
+        "short_title_en": "Authoritative order",
+        "short_title_ru": "авторитетный приказ",
+        "level": "B2",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "An order or instruction given by someone in authority. Приказ или инструкция, отданные кем-то, обладающим полномочиями.",
+            "source": "ai-qwen",
+            "level": "B2",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "He gave the command to start the engine.",
+            "ru": "Он отдал команду на запуск двигателя."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "minimum",
+    "emoji": "📉",
+    "transcription_us": "/ˈmɪn.ə.məm/",
+    "transcription_uk": "/ˈmɪn.ɪ.məm/",
+    "part_of_speech_general": "noun / adjective",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "📉",
+        "short_title_en": "Smallest amount",
+        "short_title_ru": "наименьшая сумма",
+        "level": "B1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The smallest amount or number possible or allowed. Наименьшая сумма или количество, которое возможно или разрешено.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "We need a minimum of five people to start the game.",
+            "ru": "Для начала игры нам нужно как минимум пять человек."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "💻",
+        "short_title_en": "Lowest limit",
+        "short_title_ru": "самый низкий лимит",
+        "level": "Special/IT",
+        "part_of_speech": "adjective",
+        "definitions": [
+          {
+            "text": "The lowest limit or setting in a system or configuration. Самый низкий лимит или параметр в системе или конфигурации.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Check the minimum system requirements before installing.",
+            "ru": "Перед установкой проверьте минимальные системные требования."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "emoji": "⚙️",
+        "short_title_en": "At the least",
+        "short_title_ru": "минимально",
+        "level": "B1",
+        "part_of_speech": "adverb",
+        "definitions": [
+          {
+            "text": "At the least. Минимально (как?).",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "You should do three exercise classes a week minimum.",
+            "ru": "Вам следует выполнять как минимум три занятия физическими упражнениями в неделю."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "emoji": "🧠",
+    "transcription_us": "/ˈkɑːn.sən.treɪt/",
+    "transcription_uk": "/ˈkɒn.sən.treɪt/",
+    "part_of_speech_general": "verb",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "🧠",
+        "short_title_en": "To direct your attention",
+        "short_title_ru": "сосредоточиться, концентрироваться",
+        "level": "B1",
+        "part_of_speech": "verb",
+        "definitions": [
+          {
+            "text": "To give all your attention to something you are doing, listening to, or thinking about. Уделять все свое внимание тому, что вы делаете, слушаете или о чем думаете.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "I can't concentrate with all this noise.",
+            "ru": "Я не могу сосредоточиться из-за всего этого шума."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "💻",
+        "short_title_en": "To focus attention",
+        "short_title_ru": "концентрировать (ресурсы, данные)",
+        "level": "Special/IT",
+        "part_of_speech": "verb",
+        "definitions": [
+          {
+            "text": "To bring together or focus resources, data, or processes into a single place. Объединить или сфокусировать ресурсы, данные или процессы в одном месте.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "The new architecture concentrates all data processing in the cloud.",
+            "ru": "Новая архитектура концентрирует всю обработку данных в облаке."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "focus",
+    "emoji": "🎯",
+    "transcription_us": "/ˈfoʊ.kəs/",
+    "transcription_uk": "/ˈfəʊ.kəs/",
+    "part_of_speech_general": "noun, verb",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Focus window",
+        "short_title_ru": "фокус, фокусное окно (в интерфейсе)",
+        "level": "Special/IT",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The active element in a graphical user interface that receives keyboard input, or the act of directing system resources. Активный элемент графического интерфейса пользователя, который принимает ввод с клавиатуры или управляет системными ресурсами.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Click the text box to bring it into focus.",
+            "ru": "Нажмите на текстовое поле, чтобы перевести на него фокус."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "🎯",
+        "short_title_en": "Center of attention",
+        "short_title_ru": "центр внимания, фокус",
+        "level": "B1",
+        "part_of_speech": "noun",
+        "definitions": [
+          {
+            "text": "The main or central point of something, especially of attention or interest. Основная или центральная точка чего-либо, особенно привлекающая внимание или представляющая интерес.",
+            "source": "ai-qwen",
+            "level": "B1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "The main focus of the meeting was the new project.",
+            "ru": "Главным центром внимания встречи был новый проект."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "execute",
+    "emoji": "⚙️",
+    "transcription_us": "/ˈek.sɪ.kjuːt/",
+    "transcription_uk": "/ˈek.sə.kjuːt/",
+    "part_of_speech_general": "verb",
+    "meanings": [
+      {
+        "id": 1,
+        "emoji": "💻",
+        "short_title_en": "Execute (code, program, command)",
+        "short_title_ru": "выполнять (код, программу, команду)",
+        "level": "Special/IT",
+        "part_of_speech": "verb",
+        "definitions": [
+          {
+            "text": "To make a computer program or instruction work. Чтобы заставить компьютерную программу или инструкцию работать.",
+            "source": "ai-qwen",
+            "level": "Special/IT",
+            "it": true
+          }
+        ],
+        "examples": [
+          {
+            "en": "Click the button to execute the script.",
+            "ru": "Нажмите кнопку, чтобы выполнить скрипт."
+          },
+          {
+            "en": "The system failed to execute the command.",
+            "ru": "Система не смогла выполнить команду."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "emoji": "⚖️",
+        "short_title_en": "Carry out or put into effect",
+        "short_title_ru": "выполнять, осуществлять (план, приказ)",
+        "level": "B2",
+        "part_of_speech": "verb",
+        "definitions": [
+          {
+            "text": "To carry out or put into effect a plan, order, or piece of work. Выполнять или приводить в исполнение план, заказ или часть работы.",
+            "source": "ai-qwen",
+            "level": "B2",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "The team will execute the project next month.",
+            "ru": "Команда выполнит проект в следующем месяце."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "emoji": "⚔️",
+        "short_title_en": "Kill as legal punishment",
+        "short_title_ru": "казнить (человека)",
+        "level": "C1",
+        "part_of_speech": "verb",
+        "definitions": [
+          {
+            "text": "To kill someone as a legal punishment. Убить кого-либо в качестве законного наказания.",
+            "source": "ai-qwen",
+            "level": "C1",
+            "it": false
+          }
+        ],
+        "examples": [
+          {
+            "en": "The prisoner was executed for his crimes.",
+            "ru": "Заключенный был казнен за свои преступления."
+          }
+        ]
+      }
+    ]
+  }
+]
