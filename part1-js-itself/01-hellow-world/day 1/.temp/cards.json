@@ -15,13 +15,19 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "A document or video that provides step-by-step instructions on how to do something. Документ или видео, в котором содержатся пошаговые инструкции о том, как что-то сделать.",
+            "text": {
+              "eng": "A document or video that provides step-by-step instructions on how to do something.",
+              "ru": "Документ или видео, в котором содержатся пошаговые инструкции о том, как что-то сделать."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
           },
           {
-            "text": "A set of instructions and exercises that teaches you how to use a computer program. Набор инструкций и упражнений, которые научат вас пользоваться компьютерной программой.",
+            "text": {
+              "eng": "A set of instructions and exercises that teaches you how to use a computer program.",
+              "ru": "Набор инструкций и упражнений, которые научат вас пользоваться компьютерной программой."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -43,7 +49,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "A class or period of teaching given to an individual or a very small group (common in UK universities). Класс или период обучения, проводимый индивидуально или в очень небольшой группе (часто в британских университетах).",
+            "text": {
+              "eng": "A class or period of teaching given to an individual or a very small group (common in UK universities).",
+              "ru": "Класс или период обучения, проводимый индивидуально или в очень небольшой группе (часто в британских университетах)."
+            },
             "source": "ai-qwen",
             "level": "B2",
             "it": false
@@ -78,7 +87,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "Everything needed for a program to run or be developed. Все необходимое для запуска или разработки программы.",
+            "text": {
+              "eng": "Everything needed for a program to run or be developed.",
+              "ru": "Все необходимое для запуска или разработки программы."
+            },
             "source": "ai-qwen",
             "level": "Special",
             "it": true
@@ -108,7 +120,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The air, water, and land where people, animals, and plants live. Воздух, вода и земля, где живут люди, животные и растения.",
+            "text": {
+              "eng": "The air, water, and land where people, animals, and plants live.",
+              "ru": "Воздух, вода и земля, где живут люди, животные и растения."
+            },
             "source": "ai-qwen",
             "level": "A1",
             "it": false
@@ -130,7 +145,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The conditions or surroundings in which someone lives or works. Условия или окружение, в которых кто-то живет или работает.",
+            "text": {
+              "eng": "The conditions or surroundings in which someone lives or works.",
+              "ru": "Условия или окружение, в которых кто-то живет или работает."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -165,7 +183,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The process of creating, designing, and maintaining software or systems. Процесс создания, проектирования и поддержки программного обеспечения или систем.",
+            "text": {
+              "eng": "The process of creating, designing, and maintaining software or systems.",
+              "ru": "Процесс создания, проектирования и поддержки программного обеспечения или систем."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -187,7 +208,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The process of growing, changing, or becoming more advanced. Процесс, в ходе которого кто-то или что-то растет или становится более совершенным.",
+            "text": {
+              "eng": "The process of growing, changing, or becoming more advanced.",
+              "ru": "Процесс, в ходе которого кто-то или что-то растет или становится более совершенным."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -217,7 +241,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "A software application used to access and view websites. Приложение, используемое для доступа к веб-сайтам и их просмотра.",
+            "text": {
+              "eng": "A software application used to access and view websites.",
+              "ru": "Приложение, используемое для доступа к веб-сайтам и их просмотра."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -239,7 +266,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "Someone who browses. Кто-то, кто просматривает, пролистывает.",
+            "text": {
+              "eng": "Someone who browses.",
+              "ru": "Кто-то, кто просматривает, пролистывает."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -274,7 +304,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "An instruction given to a computer system or program to perform a specific task. Инструкция, заданная компьютерной системе или программе для выполнения определенной задачи.",
+            "text": {
+              "eng": "An instruction given to a computer system or program to perform a specific task.",
+              "ru": "Инструкция, заданная компьютерной системе или программе для выполнения определенной задачи."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -296,7 +329,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "An order or instruction given by someone in authority. Приказ или инструкция, отданные кем-то, обладающим полномочиями.",
+            "text": {
+              "eng": "An order or instruction given by someone in authority.",
+              "ru": "Приказ или инструкция, отданные кем-то, обладающим полномочиями."
+            },
             "source": "ai-qwen",
             "level": "B2",
             "it": false
@@ -327,7 +363,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The smallest amount or number possible or allowed. Наименьшая сумма или количество, которое возможно или разрешено.",
+            "text": {
+              "eng": "The smallest amount or number possible or allowed.",
+              "ru": "Наименьшая сумма или количество, которое возможно или разрешено."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -349,7 +388,10 @@
         "part_of_speech": "adjective",
         "definitions": [
           {
-            "text": "The lowest limit or setting in a system or configuration. Самый низкий лимит или параметр в системе или конфигурации.",
+            "text": {
+              "eng": "The lowest limit or setting in a system or configuration.",
+              "ru": "Самый низкий лимит или параметр в системе или конфигурации."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -371,7 +413,10 @@
         "part_of_speech": "adverb",
         "definitions": [
           {
-            "text": "At the least. Минимально (как?).",
+            "text": {
+              "eng": "At the least.",
+              "ru": "Минимально (как?)."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -402,7 +447,10 @@
         "part_of_speech": "verb",
         "definitions": [
           {
-            "text": "To give all your attention to something you are doing, listening to, or thinking about. Уделять все свое внимание тому, что вы делаете, слушаете или о чем думаете.",
+            "text": {
+              "eng": "To give all your attention to something you are doing, listening to, or thinking about.",
+              "ru": "Уделять все свое внимание тому, что вы делаете, слушаете или о чем думаете."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -424,7 +472,10 @@
         "part_of_speech": "verb",
         "definitions": [
           {
-            "text": "To bring together or focus resources, data, or processes into a single place. Объединить или сфокусировать ресурсы, данные или процессы в одном месте.",
+            "text": {
+              "eng": "To bring together or focus resources, data, or processes into a single place.",
+              "ru": "Объединить или сфокусировать ресурсы, данные или процессы в одном месте."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -455,7 +506,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The active element in a graphical user interface that receives keyboard input, or the act of directing system resources. Активный элемент графического интерфейса пользователя, который принимает ввод с клавиатуры или управляет системными ресурсами.",
+            "text": {
+              "eng": "The active element in a graphical user interface that receives keyboard input, or the act of directing system resources.",
+              "ru": "Активный элемент графического интерфейса пользователя, который принимает ввод с клавиатуры или управляет системными ресурсами."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -477,7 +531,10 @@
         "part_of_speech": "noun",
         "definitions": [
           {
-            "text": "The main or central point of something, especially of attention or interest. Основная или центральная точка чего-либо, особенно привлекающая внимание или представляющая интерес.",
+            "text": {
+              "eng": "The main or central point of something, especially of attention or interest.",
+              "ru": "Основная или центральная точка чего-либо, особенно привлекающая внимание или представляющая интерес."
+            },
             "source": "ai-qwen",
             "level": "B1",
             "it": false
@@ -508,7 +565,10 @@
         "part_of_speech": "verb",
         "definitions": [
           {
-            "text": "To make a computer program or instruction work. Чтобы заставить компьютерную программу или инструкцию работать.",
+            "text": {
+              "eng": "To make a computer program or instruction work.",
+              "ru": "Заставить компьютерную программу или инструкцию работать."
+            },
             "source": "ai-qwen",
             "level": "Special/IT",
             "it": true
@@ -534,7 +594,10 @@
         "part_of_speech": "verb",
         "definitions": [
           {
-            "text": "To carry out or put into effect a plan, order, or piece of work. Выполнять или приводить в исполнение план, заказ или часть работы.",
+            "text": {
+              "eng": "To carry out or put into effect a plan, order, or piece of work.",
+              "ru": "Выполнять или приводить в исполнение план, заказ или часть работы."
+            },
             "source": "ai-qwen",
             "level": "B2",
             "it": false
@@ -556,7 +619,10 @@
         "part_of_speech": "verb",
         "definitions": [
           {
-            "text": "To kill someone as a legal punishment. Убить кого-либо в качестве законного наказания.",
+            "text": {
+              "eng": "To kill someone as a legal punishment.",
+              "ru": "Убить кого-либо в качестве законного наказания."
+            },
             "source": "ai-qwen",
             "level": "C1",
             "it": false
